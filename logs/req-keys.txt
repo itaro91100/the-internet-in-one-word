@@ -1,0 +1,14 @@
+['competition', 'deliverables', 'checks', 'handed_over_places', 'quota', 'entry_fee', 'deadlines', 'payout_curve', 'escrow', 'how_to_submit', 'blind_rounds']
+{
+ "competition": "dict",
+ "deliverables": "list",
+ "checks": "list",
+ "handed_over_places": "str",
+ "quota": "dict",
+ "entry_fee": "NoneType",
+ "deadlines": "dict",
+ "payout_curve": "dict",
+ "escrow": "dict",
+ "how_to_submit": "dict",
+ "blind_rounds": "dict"
+}
